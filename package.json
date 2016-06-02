@@ -1,0 +1,20 @@
+{
+  "name": "emailbuilder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "gulp": "3.9.1",
+    "gulp-jade": "1.1.0",
+    "gulp-watch": "4.3.6",
+    "require-dir": "0.3.0",
+    "watchify": "3.7.0"
+  },
+  "devDependencies": {
+    "browser-sync": "2.12.10",
+    "del": "2.2.0",
+    "gulp-copy": "0.0.2"
+  },
+  "author": "",
+  "license": "ISC"
+}
